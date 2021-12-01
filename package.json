@@ -4,7 +4,7 @@
   "description": "- [Python](http://python.org)\r - [Google Colab](https://colab.research.google.com/)\r - [Tensorflow](https://www.tensorflow.org/?hl=es-419)\r - [Matplotlib](https://matplotlib.org/)\r - [TensorflowJS](https://www.tensorflow.org/js?hl=es-419)\r - [HTML](https://www.w3.org/TR/html5/)\r - [CSS](https://www.w3.org/Style/CSS/)\r - [JS](https://www.javascript.com/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "despliegue": "npx gh-pages -d ."
   },
   "repository": {
     "type": "git",
